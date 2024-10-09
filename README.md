@@ -17,6 +17,8 @@
 
 💬 Ask me about **html, css, Javascript ... and related to Tech.**
 
+🔭 My Focus **Work Hard || Stay Humble || Dream Big**
+
  </div>
 
  <div align="center"> 
